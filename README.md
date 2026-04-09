@@ -101,5 +101,5 @@ pip install pandas numpy matplotlib scikit-learn scipy
 
 **Gayathri Gigeev**
 MSc Finance and Financial Technology — Henley Business School (Distinction)
-Credit Analyst | MCL Finance
+Credit Analyst 
 [LinkedIn](https://www.linkedin.com/in/gayathri-gigeev/)
